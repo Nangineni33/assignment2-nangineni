@@ -15,3 +15,14 @@ Football is a **world's popular game**. It is played without using the hands or 
 - Victorious Secret
 
 [AboutMe](https://github.com/Nangineni33/assignment2-nangineni/blob/main/VS.jpeg)
+*****
+##favorite Countries
+Countries that I would like to recommeded to have a trip and days that can spent on vacation.
+| Country|reason|days
+|-------------|----------|
+|France|France is very beautiful in spring season to visit.|40 days|
+|Spain|It has famous places to have have a trip|10 days|
+|Switerland|the beautiful view can be in a Switerland to have pictures|30 days|
+|Netherlands|coolest place to have peace and quiet|50 days|
+------------------
+
