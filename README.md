@@ -16,7 +16,7 @@ Football is a **world's popular game**. It is played without using the hands or 
 
 [AboutMe](https://github.com/Nangineni33/assignment2-nangineni/blob/main/VS.jpeg)
 *****
-##favorite Countries
+## favorite Countries
 Countries that I would like to recommeded to have a trip and days that can spent on vacation.
 | Country|reason|days
 |-------------|----------|
