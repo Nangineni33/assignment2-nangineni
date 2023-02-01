@@ -24,5 +24,12 @@ Countries that I would like to recommeded to have a trip and days that can spent
 |Spain|It has famous places to have have a trip|10 days|
 |Switerland|the beautiful view can be in a Switerland to have pictures|30 days|
 |Netherlands|coolest place to have peace and quiet|50 days|
+
 ------------------
+## Favorite Quotes
+> It is never too late to be what you might have been. – *George Eliot*
+
+> Pain is inevitable. Suffering is optional. – *Haruki Murakami*  
+
+
 
